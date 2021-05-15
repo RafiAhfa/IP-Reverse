@@ -1,0 +1,17 @@
+Instalasi :
+
+pkg update
+
+pkg upgrade
+
+pkg install git
+
+pkg install python
+
+git clone https://github.com/RafiAhfa/IP-Reverse
+
+cd IP-Reverse
+
+pip install -r requirements.txt
+
+python main.py
